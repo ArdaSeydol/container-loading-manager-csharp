@@ -1,0 +1,14 @@
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\bin\Debug\net9.0\ApbdCon.exe
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\bin\Debug\net9.0\ApbdCon.deps.json
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\bin\Debug\net9.0\ApbdCon.runtimeconfig.json
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\bin\Debug\net9.0\ApbdCon.dll
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\bin\Debug\net9.0\ApbdCon.pdb
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ApbdCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ApbdCon.AssemblyInfoInputs.cache
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ApbdCon.AssemblyInfo.cs
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ApbdCon.csproj.CoreCompileInputs.cache
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ApbdCon.dll
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\refint\ApbdCon.dll
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ApbdCon.pdb
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ApbdCon.genruntimeconfig.cache
+C:\Users\ardas\RiderProjects\ApbdCon\ApbdCon\obj\Debug\net9.0\ref\ApbdCon.dll
